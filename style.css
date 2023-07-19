@@ -123,6 +123,13 @@ img {
   padding: 0 6rem;
   z-index: 100;
 }
+.nav__logo_div {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  font-size: 20;
+  font-weight: 400;
+}
 
 /* nav and stickly class at the same time */
 .nav.sticky {
