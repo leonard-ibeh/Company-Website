@@ -7,8 +7,7 @@
 
 ### Table of Contents
 - **Demo**
-Features
-Getting Started
-Usage
-Contributing
-License
+- **Features**
+- **Getting Started**
+- **Usage**
+- **Contributing**
