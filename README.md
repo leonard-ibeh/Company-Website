@@ -23,6 +23,7 @@ A live demo of the Bank Marketing Web Page can be found  <a href="https://easysa
 To use this web page locally, follow these instructions:
 
 > Clone the repository: git clone https://github.com/leonard-ibeh/easysafe.git
+
 > Navigate to the project directory: cd easysafe
 
 ### Contributing
