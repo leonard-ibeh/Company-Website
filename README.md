@@ -4,3 +4,11 @@
 
 ### Demo Screeshots
 ![Easysafe](./readme-images/EasySafe.png)
+
+### Table of Contents
+- **Demo**
+Features
+Getting Started
+Usage
+Contributing
+License
